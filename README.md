@@ -15,4 +15,13 @@
 ---
 [![](https://komarev.com/ghpvc/?username=priyanshu17012003-byte&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## 📊 GitHub Stats:
+
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu17012003-byte&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=priyanshu17012003-byte&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu17012003-byte&layout=compact&theme=radical)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
